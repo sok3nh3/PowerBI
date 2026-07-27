@@ -1,4 +1,21 @@
-Welcome to the power BI Repository
+# 📊 Power BI Analytics & Learning Repository
 
-In this Repository datasets and reports from PowerBI is shared where anyone can download the files and tryout.
-In future basic tutorial blog will also be added where you can undertsand the usage of PowerBI and its advantages for dat analysis.
+Welcome to the **Power BI Analytics Repository**! This project serves as a open resource for sharing Power BI datasets, report templates (`.pbip` / `.pbix`), TMDL models, and data visualization best practices. 
+
+Whether you want to explore hands-on dashboard examples, practice DAX calculations, or download ready-to-use manufacturing and financial datasets, this repository is built for you to download, test, and adapt.
+
+---
+
+## 📁 What's Inside This Repository
+
+* **`Datasets/`**: Cleaned sample datasets (CSV/Excel) featuring manufacturing metrics, customer orders, quality control logs, and financial KPIs.
+* **`Reports/`**: Pre-built Power BI report files (`.pbip` / `.pbix`) ready to open and explore.
+* **`DAX-Scripts/`**: A collection of reusable DAX measures, calculated tables, and time intelligence scripts.
+* **`TMDL-Models/`**: Source-controlled semantic model definitions for advanced developer setups.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone or Download the Repo:**
+   ```bash
