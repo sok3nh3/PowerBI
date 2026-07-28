@@ -2,7 +2,7 @@
 
 Welcome to the **Power BI Analytics Repository**! This project serves as a open resource for sharing Power BI datasets, report templates (`.pbip` / `.pbix`), TMDL models, and data visualization best practices. 
 
-Whether you want to explore hands-on dashboard examples, practice DAX calculations, or download ready-to-use manufacturing and financial datasets, this repository is built for you to download, test, and adapt.
+Whether you want to explore hands-on dashboard examples, practice DAX calculations, or download ready-to-use manufacturing  datasets, this repository is built for you to download, test, and adapt.
 
 ---
 
