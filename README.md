@@ -22,5 +22,5 @@ Whether you want to explore hands-on dashboard examples, practice DAX calculatio
 https://github.com/sok3nh3/PowerBI.git
 
 
-![Chocolate Sales Report]Protfolio report.png
+![Chocolate Sales Report](Protfolio report.png)
 
