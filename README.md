@@ -18,8 +18,7 @@ Whether you want to explore hands-on dashboard examples, practice DAX calculatio
 ## 🚀 Getting Started
 
 1. **Clone or Download the Repo:**
-   ```bash
-https://github.com/sok3nh3/PowerBI.git
+   [```](https://github.com/sok3nh3/PowerBI.git)bash
 
 
 ![Chocolate Sales Report](<Protfolio report.png>)
