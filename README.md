@@ -27,7 +27,7 @@ Whether you want to explore hands-on dashboard examples, practice DAX calculatio
 
 
 
-* **Insurance Sales Report
+* Insurance Sales Report
 
 ![Insurance Sales Report](<Protfolio_2 Report.png>)
 
