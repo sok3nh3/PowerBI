@@ -16,13 +16,12 @@ Whether you want to explore hands-on dashboard examples, practice DAX calculatio
 ---
 
 ## 🚀 Getting Started
-
-1. **Clone or Download the Repo:**
+ Clone or Download the Repo:**
    (https://github.com/sok3nh3/PowerBI.git)
 
 
 ## 🚀 Report Example:
-* **Chocolate Sales Report
+* Chocolate Sales Report
 
 ![Chocolate Sales Report](<Protfolio_1 Report.png>)  
 
