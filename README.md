@@ -22,13 +22,13 @@ Whether you want to explore hands-on dashboard examples, practice DAX calculatio
 
 
 ## 🚀 Report Example:
-1.Chocolate Sales Report
+* **Chocolate Sales Report
 
 ![Chocolate Sales Report](<Protfolio_1 Report.png>)  
 
 
 
-2.Insurance Sales Report
+* **Insurance Sales Report
 
 ![Insurance Sales Report](<Protfolio_2 Report.png>)
 
